@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/time-trackin/static/js/main.efcd4ceb.chunk.js",
+    "main.js.map": "/time-trackin/static/js/main.efcd4ceb.chunk.js.map",
+    "runtime-main.js": "/time-trackin/static/js/runtime-main.34a464b1.js",
+    "runtime-main.js.map": "/time-trackin/static/js/runtime-main.34a464b1.js.map",
+    "static/js/2.21273ac5.chunk.js": "/time-trackin/static/js/2.21273ac5.chunk.js",
+    "static/js/2.21273ac5.chunk.js.map": "/time-trackin/static/js/2.21273ac5.chunk.js.map",
+    "index.html": "/time-trackin/index.html",
+    "static/js/2.21273ac5.chunk.js.LICENSE.txt": "/time-trackin/static/js/2.21273ac5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34a464b1.js",
+    "static/js/2.21273ac5.chunk.js",
+    "static/js/main.efcd4ceb.chunk.js"
+  ]
+}
